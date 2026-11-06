@@ -1,0 +1,60 @@
+Mythores est un jeu de collection d’animaux sans aucun serveur derrière.
+Pas de compte, pas de pub, pas d’achats. Chaque ami et chaque historique
+vivent uniquement sur ce téléphone.
+
+- Ils deviennent ce que tu en fais
+Nourrir, jouer, laver, brosser, ranger et coucher.
+Suis les six et ton ami aura les yeux vifs et se tiendra bien droit.
+Prends du retard et son pelage ternit, sa tête tombe, son sourire s’efface.
+La même espèce, du même œuf, devient un autre animal entre d’autres mains.
+
+- Trente espèces, six rangs
+Pandas, capybaras, loutres de mer, colibris, paresseux, méduses,
+chauves-souris et vingt-trois autres.
+De Common à Mythic, avec un Shiny à 1 sur 4096 dans chaque rang.
+Les Mythic portent un numéro d’émission : cent par appareil, pas un de plus.
+Toutes les probabilités sont publiées dans l’appli.
+
+- Quatre zones du monde
+Les œufs n’éclosent que dans la zone de longitude de ton téléphone.
+Les amis des trois autres n’arrivent qu’en cadeau, de la part de quelqu’un
+qui y vit. La fin du codex ne se termine pas seul.
+
+- Saisons
+Chaque trimestre favorise un habitat différent.
+Un ami né lors d’une saison passée ne vient que de quelqu’un qui était là.
+
+- Offrir
+Un QR code dans la même pièce, ou un code envoyé par message à l’autre bout
+du monde. Chaque animal est protégé par la signature de son appareil, et la
+carte se souvient de tous ceux qui l’ont eu.
+Ici, on offre, c’est tout. Rien n’a de valeur en argent.
+
+- Habillage
+Décors, chapeaux, écharpes et objets à poser, achetés avec les pièces que tu
+gagnes. Un ami offert garde la tenue qu’il portait.
+
+- Sauvegardes
+Tes amis et la clé de cet appareil tiennent dans un seul fichier verrouillé
+par une phrase secrète. Si tu perds le téléphone, ce fichier ramène tout.
+La phrase secrète ne quitte jamais l’appareil ; si tu l’oublies, nous non
+plus ne pourrons pas l’ouvrir.
+
+- Montrer et vérifier
+Un code d’étagère montre à un ami tout ce que tu as. Ce n’est pas un cadeau :
+personne n’y gagne d’animal.
+Une fois par saison, tu peux signer l’état de ton ami aujourd’hui. Une suite
+de saisons d’affilée veut dire que quelqu’un a été là tout du long.
+Quelqu’un qui n’est pas le propriétaire peut signer le livre d’or pour dire
+qu’il l’a vu, et un ami signé dans les quatre zones a vraiment fait le tour
+du monde.
+L’appli tient le compte de ce qu’elle a vérifié elle-même, pour qu’une carte
+puisse dire lequel c’est parmi ceux que tu as vus.
+
+- Ce que l’appli n’a pas
+Ni serveur, ni compte, ni connexion, ni pub, ni achats, ni chat, ni collecte
+de données.
+Un mois sans aucune visite, et un ami s’en va. La dernière semaine est dite
+clairement sur la carte et dans la liste, et une notification arrive — une
+seule visite pendant ce temps suffit. Ensuite, la carte et tout ce qu’elle
+porte restent tels quels.
