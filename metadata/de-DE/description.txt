@@ -10,9 +10,11 @@ Kommst du nicht hinterher, wird das Fell stumpf, der Kopf hängt und das
 Lächeln wird flach.
 Dieselbe Art aus demselben Ei wird in anderen Händen ein anderes Tier.
 
-- Dreißig Arten, sechs Ränge
-Pandas, Capybaras, Seeotter, Kolibris, Faultiere, Quallen, Fledermäuse und
-dreiundzwanzig weitere.
+- Achtundvierzig Arten, sechs Ränge
+Pandas, Capybaras, Seeotter, Kolibris, Faultiere, Quallen, Fledermäuse —
+dazu sechs Drachen, sechs Dinosaurier, ein Phönix, ein Einhorn und ein
+Neunschwanzfuchs.
+Jeder Drache und jedes Mythenwesen ist viermal seltener als ein Tier.
 Von Common bis Mythic, dazu auf jedem Rang ein Shiny mit 1 zu 4096.
 Mythic trägt eine Ausgabenummer, höchstens hundert pro Gerät.
 Jede Wahrscheinlichkeit steht offen in der App.

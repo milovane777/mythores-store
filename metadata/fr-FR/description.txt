@@ -8,9 +8,11 @@ Suis les six et ton ami aura les yeux vifs et se tiendra bien droit.
 Prends du retard et son pelage ternit, sa tête tombe, son sourire s’efface.
 La même espèce, du même œuf, devient un autre animal entre d’autres mains.
 
-- Trente espèces, six rangs
+- Quarante-huit espèces, six rangs
 Pandas, capybaras, loutres de mer, colibris, paresseux, méduses,
-chauves-souris et vingt-trois autres.
+chauves-souris — et six dragons, six dinosaures, un phénix, une licorne
+et un renard à neuf queues.
+Chaque dragon et créature mythique est quatre fois plus rare qu’un animal.
 De Common à Mythic, avec un Shiny à 1 sur 4096 dans chaque rang.
 Les Mythic portent un numéro d’émission : cent par appareil, pas un de plus.
 Toutes les probabilités sont publiées dans l’appli.

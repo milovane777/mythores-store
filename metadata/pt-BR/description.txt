@@ -8,9 +8,11 @@ Deixe de lado e o pelo perde o brilho, a cabeça baixa, o sorriso some.
 A mesma espécie, do mesmo ovo, vira outro animal nas mãos de outra
 pessoa.
 
-- Trinta espécies, seis níveis
+- Quarenta e oito espécies, seis níveis
 Pandas, capivaras, lontras-marinhas, beija-flores, bichos-preguiça,
-águas-vivas, morcegos e mais vinte e três.
+águas-vivas, morcegos, e ainda seis dragões, seis dinossauros, uma fênix,
+um unicórnio e uma raposa de nove caudas.
+Cada dragão e criatura mítica é quatro vezes mais raro que um animal.
 De Common a Mythic, com um brilhante de 1 em 4096 em cada nível.
 Mythic traz número de série, cem por aparelho e nem um a mais.
 Todas as chances estão publicadas dentro do app.

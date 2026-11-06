@@ -8,9 +8,11 @@ Cúmplelas todas a tiempo y tu amigo crece con los ojos brillantes y bien erguid
 Quédate atrás y su pelaje se apaga, agacha la cabeza y se le borra la sonrisa.
 La misma especie del mismo huevo es otro animal en otras manos.
 
-- Treinta especies, seis niveles
+- Cuarenta y ocho especies, seis niveles
 Pandas, capibaras, nutrias marinas, colibríes, perezosos, medusas,
-murciélagos y veintitrés más.
+murciélagos, y además seis dragones, seis dinosaurios, un fénix, un
+unicornio y un zorro de nueve colas.
+Cada dragón y criatura mítica es cuatro veces más raro que un animal.
 De Común a Mítico, más un brillante de uno entre 4096 en todos los niveles.
 El Mítico lleva un número de serie, cien por dispositivo y ni uno más.
 Todas las probabilidades están publicadas dentro de la aplicación.
