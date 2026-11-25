@@ -1,1 +1,1 @@
-animal,collection,élever,animal virtuel,animaux,cosy,hors ligne,sans pub,codex,cadeau,cartes,panda
+animal,collection,élever,animal virtuel,animaux,cosy,hors ligne,codex,cadeau,cartes,panda

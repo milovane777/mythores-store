@@ -1,4 +1,4 @@
-Mythores is a pet collecting game with no server behind it. No account, no ads,
+Mythores is a pet collecting game with no server behind it. No account and
 no purchases. Every friend and every record lives on this phone alone.
 
 - They grow into how you raise them
@@ -51,7 +51,7 @@ The app keeps a tally of what it has checked itself, so a card can say which
 of the ones you have seen this is.
 
 - What this app does not have
-No server, account, sign-in, ads, purchases, chat, or data collection.
+No server, account, sign-in, purchases or chat.
 A month with nobody visiting and a friend goes. The last week is said
 plainly on the card and in the list, and a notification comes — one visit
 inside it is enough. Afterwards the card and everything on it stay exactly as

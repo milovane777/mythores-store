@@ -1,5 +1,5 @@
 Mythores ist ein Spiel zum Sammeln von Tierfreunden, ohne Server dahinter.
-Kein Konto, keine Werbung, keine Käufe. Jeder Freund und jeder Eintrag lebt
+Kein Konto, keine Käufe. Jeder Freund und jeder Eintrag lebt
 nur auf diesem Handy.
 
 - Sie werden, wie du sie großziehst
@@ -58,8 +58,8 @@ Die App zählt, was sie selbst geprüft hat, damit eine Karte sagen kann, das
 wievielte der gesehenen Tiere sie ist.
 
 - Was diese App nicht hat
-Keinen Server, kein Konto, keine Anmeldung, keine Werbung, keine Käufe,
-keinen Chat und keine Datensammlung.
+Keinen Server, kein Konto, keine Anmeldung, keine Käufe
+und keinen Chat.
 Ein Monat ohne Besuch, und ein Freund geht. Die letzte Woche steht deutlich
 auf der Karte und in der Liste, und eine Mitteilung kommt – ein Besuch darin
 reicht. Danach bleiben die Karte und alles darauf genau, wie sie sind.

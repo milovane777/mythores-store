@@ -1,5 +1,5 @@
 Mythores es un juego de coleccionar mascotas sin ningún servidor detrás. Sin
-cuenta, sin anuncios, sin compras. Cada amigo y cada registro vive solo en este
+cuenta y sin compras. Cada amigo y cada registro vive solo en este
 teléfono.
 
 - Se convierten en cómo los crías
@@ -47,7 +47,7 @@ La aplicación lleva la cuenta de lo que ha comprobado por sí misma, así que l
 carta puede decirte cuál es de entre los que has visto.
 
 - Lo que esta aplicación no tiene
-Ni servidor, ni cuenta, ni inicio de sesión, ni anuncios, ni compras, ni chat,
-ni recogida de datos. Un mes sin que nadie venga y un amigo se va. La última semana se dice
+Ni servidor, ni cuenta, ni inicio de sesión, ni compras, ni chat.
+ Un mes sin que nadie venga y un amigo se va. La última semana se dice
 claramente en la carta y en la lista, y llega un aviso: una sola visita dentro
 de ese plazo basta. Después, la carta y todo lo suyo quedan igual.

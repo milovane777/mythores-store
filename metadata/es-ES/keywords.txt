@@ -1,1 +1,1 @@
-mascota,criar,coleccionar,animales,offline,sin anuncios,album,regalo,cartas,panda,nutria,quokka
+mascota,criar,coleccionar,animales,offline,album,regalo,cartas,panda,nutria,quokka

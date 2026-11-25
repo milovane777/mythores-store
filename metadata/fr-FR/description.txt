@@ -1,5 +1,5 @@
 Mythores est un jeu de collection d’animaux sans aucun serveur derrière.
-Pas de compte, pas de pub, pas d’achats. Chaque ami et chaque historique
+Pas de compte, pas d’achats. Chaque ami et chaque historique
 vivent uniquement sur ce téléphone.
 
 - Ils deviennent ce que tu en fais
@@ -54,8 +54,7 @@ L’appli tient le compte de ce qu’elle a vérifié elle-même, pour qu’une 
 puisse dire lequel c’est parmi ceux que tu as vus.
 
 - Ce que l’appli n’a pas
-Ni serveur, ni compte, ni connexion, ni pub, ni achats, ni chat, ni collecte
-de données.
+Ni serveur, ni compte, ni connexion, ni achats, ni chat.
 Un mois sans aucune visite, et un ami s’en va. La dernière semaine est dite
 clairement sur la carte et dans la liste, et une notification arrive — une
 seule visite pendant ce temps suffit. Ensuite, la carte et tout ce qu’elle

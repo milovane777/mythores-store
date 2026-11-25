@@ -1,5 +1,5 @@
 Mythores é um jogo de colecionar pets sem nenhum servidor por trás. Sem conta,
-sem anúncios, sem compras. Cada amigo e cada registro vivem só neste celular.
+sem compras. Cada amigo e cada registro vivem só neste celular.
 
 - Eles crescem do jeito que você cria
 Alimente, brinque, dê banho, escove, arrume e coloque para dormir.
@@ -52,7 +52,7 @@ O app conta o que ele mesmo verificou, então um card pode dizer qual dos
 que você já viu é este.
 
 - O que este app não tem
-Sem servidor, conta, login, anúncios, compras, chat ou coleta de dados.
+Sem servidor, conta, login, compras ou chat.
 Um mês sem ninguém visitar e um amigo parte. A última semana é avisada
 claramente no card e na lista, e chega uma notificação — uma visita nesse
 período basta. Depois, o card e tudo nele ficam exatamente como estão.
